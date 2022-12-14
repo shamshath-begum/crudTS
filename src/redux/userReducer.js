@@ -23,7 +23,7 @@ initialState:{
   name:"B.Iqhra",
     dob:"06.08.2000",
     email:"iqhra@gmail.com",
-    mobile:"1894567899",
+    mobile:"1894567890",
     teacher:"teacher-3",
     
  },
